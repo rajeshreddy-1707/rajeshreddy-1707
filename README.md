@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MVN Rajesh Reddy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on The Blue Badge<br><br>🌱 I’m currently gaining Hands on experience in various languages<br><br>📫 How to reach me: rajeshreddyagraharam@gmail.com<br><br>📄 Know about my experiences: https://drive.google.com/file/d/1Yo-T0l4zFTKdginKqcC371EaJKW7dqG5/view?usp=share_link
