@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on The Blue Badge<br><br>🌱 I’m currently gaining Hands on experience in various languages<br><br>📫 How to reach me: rajeshreddyagraharam@gmail.com<br><br>📄 Know about my experiences: https://drive.google.com/file/d/1Yo-T0l4zFTKdginKqcC371EaJKW7dqG5/view?usp=share_link
+🔭 I’m currently working on The Blue Badge<br><br>🌱 I’m currently gaining Hands on experience in various languages<br><br>📫 How to reach me: rajeshreddyagraharam@gmail.com<br><br>📄 Know about my experiences: https://drive.google.com/file/d/1M2DyoI1N95ZTWXZ2JsRTCP04nyKwCs7m/view?usp=share_link
 
 
 ## 🌐 Socials:
@@ -14,14 +14,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=rajeshreddy-1707&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajeshreddy-1707&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshreddy-1707&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajeshreddy-1707&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=rajeshreddy-1707&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
