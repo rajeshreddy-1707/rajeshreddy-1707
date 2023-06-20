@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on The Blue Badge<br><br>🌱 I’m currently gaining Hands on experience in various languages<br><br>📫 How to reach me: rajeshreddyagraharam@gmail.com<br><br>📄 Know about my experiences: https://drive.google.com/file/d/1M2DyoI1N95ZTWXZ2JsRTCP04nyKwCs7m/view?usp=share_link
+🔭 I’m currently working on The Blue Badge<br><br>🌱 I’m currently gaining Hands on experience in various languages<br><br>📫 How to reach me: mvn.rajeshreddy@gmail.com<br><br>📄 Know about my experiences: https://drive.google.com/file/d/1M2DyoI1N95ZTWXZ2JsRTCP04nyKwCs7m/view?usp=share_link
 
 
 ## 🌐 Socials:
